@@ -1,4 +1,4 @@
-# Process the body of Shakespeare works 
+# Process the body of Shakespeare works using Spark
 ## Find some interesting stats 
 
  * Top Five words
